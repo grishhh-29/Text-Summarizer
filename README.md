@@ -22,3 +22,5 @@ conda init bash
 
 then simply just closed the terminal and started wiht powershell and it got activated.
 -->
+
+need to look at the columns, data formats
